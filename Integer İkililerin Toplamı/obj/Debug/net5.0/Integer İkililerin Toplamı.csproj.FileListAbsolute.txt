@@ -1,0 +1,16 @@
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net5.0\Integer İkililerin Toplamı.exe
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net5.0\Integer İkililerin Toplamı.deps.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net5.0\Integer İkililerin Toplamı.runtimeconfig.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net5.0\Integer İkililerin Toplamı.runtimeconfig.dev.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net5.0\Integer İkililerin Toplamı.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net5.0\ref\Integer İkililerin Toplamı.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net5.0\Integer İkililerin Toplamı.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net5.0\Integer İkililerin Toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net5.0\Integer İkililerin Toplamı.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net5.0\Integer İkililerin Toplamı.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net5.0\Integer İkililerin Toplamı.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net5.0\Integer İkililerin Toplamı.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net5.0\ref\Integer İkililerin Toplamı.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net5.0\Integer İkililerin Toplamı.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net5.0\Integer İkililerin Toplamı.genruntimeconfig.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\02-Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net5.0\Integer İkililerin Toplamı.csproj.AssemblyReference.cache
